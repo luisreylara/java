@@ -6,5 +6,5 @@ All about Java
 ![alt text](./images/appscript01.png)
 ![alt text](./images/appscript02.png)
 # Código para leer un CSV
-* [  CSV  ](./codes/csv.gs) 
+* [  CSV  ](./codes/csv.java) 
 
