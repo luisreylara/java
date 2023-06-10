@@ -8,5 +8,5 @@ All about Java
 # Código para leer un CSV
 * [  CSV  ](./codes/csv.java) 
 # RMI
-* [Video 2 - RM1](https://drive.google.com/file/d/1psVjcncOPMfh0ch8T88mdFpwNqD2-AXE/view)
+* [Video 2 - RM1](https://github.com/luisreylara/java/blob/main/RMI/Readme.md)
 
