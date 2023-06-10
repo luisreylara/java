@@ -62,6 +62,39 @@ public class Cliente_1 {
 }
 
 ```
+## Cliente_2.java
+```
+
+package sistema_distribuido;
+
+import java.rmi.Naming;
+import java.rmi.registry.LocateRegistry;
+import java.rmi.registry.Registry;
+
+
+import java.util.Scanner;
+import javax.swing.JOptionPane;
+
+public class Cliente_2 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        try {
+            Registry miRegistro = LocateRegistry.getRegistry("localhost",1100);
+            System.setProperty("java.rmi.server.hostname","localhost");
+            Calculadora c = (Calculadora) miRegistro.lookup("Calculadora");
+             
+            int x= Integer.parseInt(JOptionPane.showInputDialog("num1 :"));
+            int y= Integer.parseInt(JOptionPane.showInputDialog("num2 :"));
+            JOptionPane.showMessageDialog(null,"Suma :"+c.add(x,y));
+             
+            
+        } catch (Exception e) {
+            JOptionPane.showMessageDialog(null, "servidor no conectado "+e);
+        }
+    }
+}
+```
 
 
 ## Cliente.java
