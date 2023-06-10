@@ -32,6 +32,38 @@ public class Servidor {
     }
 }
 ```
+
+## Cliente_1.java
+```
+package sistema_distribuido;
+
+import java.rmi.Naming;
+import java.rmi.registry.LocateRegistry;
+import java.rmi.registry.Registry;
+
+import java.util.Scanner;
+import javax.swing.JOptionPane;
+
+public class Cliente_1 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        try {
+            Registry miRegistro = LocateRegistry.getRegistry("localhost",1100);
+            System.setProperty("java.rmi.server.hostname","localhost");
+            Calculadora c = (Calculadora) miRegistro.lookup("Calculadora");
+            System.out.println("Si se conecto y encontró el método Calculadora");
+                    
+           
+        } catch (Exception e) {
+            JOptionPane.showMessageDialog(null, "servidor no conectado "+e);
+        }
+    }
+}
+
+```
+
+
 ## Cliente.java
 ```
 package sistema_distribuido;
