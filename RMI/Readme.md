@@ -2,6 +2,7 @@
 
 ## Código completo netbeans 
 * [SD.ZIP](https://github.com/luisreylara/java/blob/main/RMI/SD.zip)
+* [Otro Ejemplo RMI](https://github.com/luisreylara/java/blob/main/RMI/ServidorRMI.zip)
 
 ## Videos RMI Tutoriales 
 * [Video 1 - RM1](https://drive.google.com/file/d/1s9KESved63ON8n1zkMkLhHJkpph3yoH9/view)
