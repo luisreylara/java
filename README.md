@@ -19,4 +19,4 @@ All about Java
 * ![alt text](./hearth_ev3.png)
 * ![alt text](./heart_ev3_2.png)  
 * ![alt text](./heart_ev3_3.png)
-*[Lejos for Java Ev3](https://lejos.sourceforge.io/)
+* [Lejos for Java Ev3](https://lejos.sourceforge.io/)
