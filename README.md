@@ -17,6 +17,6 @@ All about Java
 
 # Heart of EV3 (LEGO Mindstorm) 
 ![alt text](./hearth_ev3.png)
-|[alt text](./heart_ev3_2.png)
+![alt text](./heart_ev3_2.png)
 
 *[Lejos for Java Ev3](https://lejos.sourceforge.io/)
