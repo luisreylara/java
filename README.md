@@ -11,3 +11,6 @@ All about Java
 * [RM1](https://github.com/luisreylara/java/blob/main/RMI/Readme.md)
 # Java & OpenCV
 *  [OpenCV](https://github.com/luisreylara/OpenCv)
+
+# Java - Embedded Channels
+![alt text](.//java-embedded.png)
