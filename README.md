@@ -1,10 +1,6 @@
 # Java
 All about Java
 
-# Imágenes
-
-![alt text](./images/appscript01.png)
-![alt text](./images/appscript02.png)
 # Código para leer un CSV
 * [  CSV  ](./codes/csv.java) 
 # RMI
@@ -19,4 +15,5 @@ All about Java
 * ![alt text](./hearth_ev3.png)
 * ![alt text](./heart_ev3_2.png)  
 * ![alt text](./heart_ev3_3.png)
+* ![alt text](./heart_ev3_4.png)
 * [Lejos for Java Ev3](https://lejos.sourceforge.io/)
