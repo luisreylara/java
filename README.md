@@ -19,5 +19,5 @@ All about Java
 * [Lejos for Java Ev3](https://lejos.sourceforge.io/)
 
 # JTable con imagenes 
-* ![alt text](./modelo.png)
-* ![Descargar ZIP](./JTable_con_Imagenes.zip)
+* ![alt text](./modelo.PNG)
+* ![Descargar ZIP NetBeans](./JTable_con_Imagenes.zip)
