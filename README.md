@@ -19,4 +19,4 @@ All about Java
 * [Lejos for Java Ev3](https://lejos.sourceforge.io/)
 
 # JTable con imagenes 
-* ![alt text](./JTable_con_Imagenes.zip)
+* ![Descargar ZIP](./JTable_con_Imagenes.zip)
