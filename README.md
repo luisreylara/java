@@ -3,7 +3,7 @@ All about Java
 
 # Código para leer un CSV
 * [  CSV  ](./codes/csv.java)
-* [  Leer CSV y TXT  ](./leerCSVTXT.zip) 
+* [  Leer CSV y TXT proyecto ZIP NetBeans ](./laboratorioViernes14Julio2023.zip) 
 # RMI
 * [RM1](https://github.com/luisreylara/java/blob/main/RMI/Readme.md)
 # Java & OpenCV
