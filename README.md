@@ -26,5 +26,5 @@ All about Java
 # Send_HTTP_Request.java
 * [  Send_HTTP_Request  ](./codes/Send_HTTP_Request.java)
 
-# Imágenes con JLabel, imágen local y remota 
-* [  Send_HTTP_Request  ](./codes/VerImagenOnline-master.zip)
+# Mostrar Imágenes con JLabel, imágen local y remota 
+* [  Imágenes locales y Remotas  ](./codes/VerImagenOnline-master.zip)
